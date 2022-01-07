@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-[![commitcombo](http://commitcombo.com/theme?user={Rwhisper}&theme={Cloud}&v={1})](https://github.com/devxb/CommitCombo)
-
+[![commitcombo](http://commitcombo.com/theme?user=Rwhisper&theme=Cloud&v=1)](https://github.com/devxb/CommitCombo)
 <!--
 **Rwhisper/Rwhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
