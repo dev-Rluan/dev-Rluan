@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning ... 
 - C#, C++, unity, unreal
-- Java, Spring, SQL, node.js
+- Java, Spring, SQL, node.js, restpul API
 <!--
 **Rwhisper/Rwhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
