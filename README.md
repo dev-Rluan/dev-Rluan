@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![commitcombo](http://commitcombo.com/theme?user=Rwhisper&theme=Cloud&v=1)](https://github.com/devxb/CommitCombo)
 
 🌱 I’m currently learning ... 
 - C#, C++, unity, unreal
