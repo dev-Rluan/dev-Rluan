@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ... 
-- C#, C++, unity, unreal
-- Java, Spring, MySQL, node.js, restpul API, Kotlin
+- language : Java, C#, (Kotlin, C++ : Low level)
+- Game Engine : unity, unreal
+- Framework : Spring, Spring boot, Node.js 
+- Database : MySQL, MongoDB
 <!--
 **Rwhisper/Rwhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
