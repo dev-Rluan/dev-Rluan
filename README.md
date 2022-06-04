@@ -3,8 +3,8 @@
 🌱 I’m currently learning ... 
 - language : Java, C#, (Kotlin, C++ : Low level)
 - Game Engine : unity, unreal
-- Framework : Spring, Spring boot, Node.js 
-- Database : MySQL, MongoDB
+- Framework : Spring, Spring boot, Node.js, express
+- Database : MySQL
 <!--
 **Rwhisper/Rwhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
