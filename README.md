@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ... 
-- language : Java, C#, (Kotlin, C++ : Low level)
-- Game Engine : unity, unreal
-- Framework : Spring, Spring boot, Node.js, express
-- Database : MySQL
+- language : Java, C#
+- Game Engine : unity
+- Framework : Spring boot, Node.js, express
+- Database : RDBMS, NoSql
 - view : JSP, Thymeleaf, vue.js, ejs
 - Other : html, css, javascript
 <!--
