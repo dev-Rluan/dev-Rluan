@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ... 
-- language : Java, C#
+- language : Java, C#, javascript
 - Game Engine : unity
 - Framework : Spring boot, Node.js, express
 - Database : RDBMS, NoSql
 - view : JSP, Thymeleaf, vue.js, ejs
-- Other : html, css, javascript
+
 <!--
 **dev-Rluan/dev-Rluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
