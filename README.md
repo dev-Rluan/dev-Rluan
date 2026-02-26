@@ -5,7 +5,9 @@
 - Game Engine : unity
 - Framework : Spring boot, Node.js, express, next.js
 - Database : RDBMS, NoSql
+- ORM : JPA
 - view : JSP, Thymeleaf, vue.js, ejs, react
+- study : kafka
 
 <!--
 **dev-Rluan/dev-Rluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
