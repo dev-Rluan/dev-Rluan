@@ -9,8 +9,8 @@ Java·Spring 기반 백엔드를 개발하고, AI를 활용해 게임과 도구�
 [![게임 공방 pebblecraft.io](https://img.shields.io/badge/pebblecraft.io-GAMES-14806A?style=for-the-badge&labelColor=17243A)](https://pebblecraft.io)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git&amp;theme=dark&amp;perline=6">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git&amp;theme=light&amp;perline=6" alt="Java, Spring, MySQL, Redis, Docker, Git" width="330">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cmysql%2Credis%2Cdocker%2Cgit&amp;theme=dark&amp;perline=6">
+  <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cmysql%2Credis%2Cdocker%2Cgit&amp;theme=light&amp;perline=6" alt="Java, Spring, MySQL, Redis, Docker, Git" width="330">
 </picture>
 
 ## 백엔드 개발 · Java / Spring
@@ -21,7 +21,7 @@ Java·Spring 기반 백엔드를 개발하고, AI를 활용해 게임과 도구�
 
 | [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) | [castaways](https://github.com/dev-Rluan/castaways) |
 | :--- | :--- |
-| [<img src="https://pebblecraft.io/img/touchdown-bell.webp" alt="touch_down_card_game 실제 게임 화면" width="360">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="360">](https://island.pebblecraft.io/) |
+| [<img src="https://pebblecraft.io/img/touchdown.webp" alt="touch_down_card_game 실제 게임 화면" width="360">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="360">](https://island.pebblecraft.io/) |
 | 실시간 멀티플레이 카드게임 | 치지직 채팅 참여형 생존 게임 |
 | [플레이 ↗](https://touchdown.pebblecraft.io/) | [플레이 ↗](https://island.pebblecraft.io/) |
 
