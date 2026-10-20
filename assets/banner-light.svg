@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Rluan — Backend, Games, Tools</title>
+  <desc id="desc">A calm profile banner with code brackets, a game controller, and a wrench.</desc>
+  <rect x="0.5" y="0.5" width="999" height="179" rx="18" fill="#F4F8FA" stroke="#D9E5EA"/>
+  <path d="M48 36h32" fill="none" stroke="#147D6F" stroke-width="3" stroke-linecap="round"/>
+  <text x="46" y="100" fill="#172D3D" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Rluan</text>
+  <text x="49" y="134" fill="#536F7C" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2.8">BACKEND / GAMES / TOOLS</text>
+  <path d="M724 90h168" fill="none" stroke="#BED4DB" stroke-width="1.5"/>
+  <rect x="692" y="58" width="64" height="64" rx="15" fill="#E9F2F4" stroke="#BED4DB"/>
+  <rect x="776" y="58" width="64" height="64" rx="15" fill="#E9F2F4" stroke="#BED4DB"/>
+  <rect x="860" y="58" width="64" height="64" rx="15" fill="#E9F2F4" stroke="#BED4DB"/>
+  <g fill="none" stroke="#147D6F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m714 81-9 9 9 9m20-18 9 9-9 9m-6-23-8 28"/>
+  </g>
+  <g fill="none" stroke="#356DAD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M799 80h18c5 0 8 5 9 12l1 6c.5 4-3 6-6 3l-5-5h-16l-5 5c-3 3-6.5 1-6-3l1-6c1-7 4-12 9-12Z"/>
+    <path d="M798 86v8m-4-4h8"/>
+  </g>
+  <circle cx="815" cy="87" r="1.8" fill="#356DAD"/>
+  <circle cx="821" cy="92" r="1.8" fill="#356DAD"/>
+  <path d="M896 77a11 11 0 0 0-13 14l-10 10a3.5 3.5 0 0 0 5 5l10-10a11 11 0 0 0 14-13l-7 7-6-6 7-7Z" fill="none" stroke="#147D6F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="950" cy="35" r="2" fill="#C2D6DE"/>
+  <circle cx="960" cy="35" r="2" fill="#C2D6DE"/>
+  <circle cx="950" cy="45" r="2" fill="#C2D6DE"/>
+  <circle cx="960" cy="45" r="2" fill="#C2D6DE"/>
+</svg>

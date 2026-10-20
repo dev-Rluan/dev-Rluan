@@ -1,10 +1,34 @@
-# Rluan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Rluan — Backend, Games, Tools" width="1000">
+</picture>
 
-기록·업무를 돕는 서비스와 개발 도구, 게임을 만들고 개발 과정을 기록합니다.
+Java·Spring 기반 백엔드를 개발하고, AI를 활용해 게임과 도구를 만듭니다.
 
-- [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) — 실시간 온라인 카드게임
-- [SPMIS](https://github.com/dev-Rluan/SPMIS) — 학생 프로젝트 관리
-- [gpt-commit-cli](https://github.com/dev-Rluan/gpt-commit-cli) — AI 커밋 메시지 생성
-- [YuhanLH](https://github.com/dev-Rluan/YuhanLH) — C# 소켓 서버
+[![작업 모음 rluan.dev](https://img.shields.io/badge/rluan.dev-WORK-2563EB?style=for-the-badge&labelColor=17243A)](https://rluan.dev)
+[![게임 공방 pebblecraft.io](https://img.shields.io/badge/pebblecraft.io-GAMES-14806A?style=for-the-badge&labelColor=17243A)](https://pebblecraft.io)
 
-[전체 프로젝트](PROJECTS.md) · [설계 기록](https://github.com/dev-Rluan/Rluan-s-Payment-system/tree/main/payment-system-portfolio) · [포트폴리오](https://rluan.notion.site/41d2076972654990bd762c6bb9af999e)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git&amp;theme=dark&amp;perline=6">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git&amp;theme=light&amp;perline=6" alt="Java, Spring, MySQL, Redis, Docker, Git" width="330">
+</picture>
+
+## 백엔드 개발 · Java / Spring
+
+- [SPMIS](https://github.com/dev-Rluan/SPMIS) — 학생 프로젝트 관리 팀 프로젝트. 인증·대시보드 등 담당 기능.
+
+## 게임 개발 · AI 활용
+
+| [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) | [castaways](https://github.com/dev-Rluan/castaways) |
+| :--- | :--- |
+| [<img src="https://pebblecraft.io/img/touchdown-bell.webp" alt="touch_down_card_game 실제 게임 화면" width="360">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="360">](https://island.pebblecraft.io/) |
+| 실시간 멀티플레이 카드게임 | 치지직 채팅 참여형 생존 게임 |
+| [플레이 ↗](https://touchdown.pebblecraft.io/) | [플레이 ↗](https://island.pebblecraft.io/) |
+
+## 서비스·도구 개발
+
+- **ai-notes** — 녹음·받아쓰기·요약을 위한 개인 기록 도구. 소스 비공개.
+- [growtok](https://rluan.dev/#work) — 어린이집 교사의 보육일지 작성·관리 서비스. 운영 준비 중.
+
+[설계 기록](https://github.com/dev-Rluan/Rluan-s-Payment-system/tree/main/payment-system-portfolio) · [전체 프로젝트](PROJECTS.md)
+
