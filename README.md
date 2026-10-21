@@ -29,9 +29,11 @@ Java·Spring 기반 백엔드를 개발하고, AI를 활용해 게임과 도구�
 
 - [Pebble Village](https://github.com/dev-Rluan/pebble-village) — Claude Code와 Codex의 작업 상태를 작은 캐릭터들이 일하는 공간으로 보여주는 로컬 대시보드. 픽셀 아트·사무실·캠프 배경과 시간대별 조명 지원.
 
+  [<img src="assets/pebble-village-camp.png" alt="Pebble Village 실제 앱 화면 — 야간 픽셀 캠프와 모닥불" width="640">](https://github.com/dev-Rluan/pebble-village)
+
 - **ai-notes** — 녹음·받아쓰기·요약을 위한 개인 기록 도구. 소스 비공개.
 
-  [<img src="assets/ai-notes-overview.png" alt="ai-notes 실제 앱 화면 — 라이트·다크 테마의 PC·휴대폰·태블릿 요약·녹취·분석·질문 화면" width="1000">](assets/ai-notes-overview.png)
+  [<img src="assets/ai-notes-overview.png" alt="ai-notes 실제 앱 화면 — 라이트·다크 테마의 PC·휴대폰·태블릿 요약·녹취·분석·질문 화면" width="640">](assets/ai-notes-overview.png)
 
 - [growtok](https://rluan.dev/#work) — 어린이집 교사의 보육일지 작성·관리 서비스. 운영 준비 중.
 
