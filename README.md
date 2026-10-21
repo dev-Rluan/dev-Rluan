@@ -19,11 +19,19 @@ Java·Spring 기반 백엔드를 개발하고, AI를 활용해 게임과 도구�
 
 ## 게임 개발 · AI 활용
 
-| [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) | [castaways](https://github.com/dev-Rluan/castaways) | [Massive-Consumer](https://rluan0807.itch.io/massive-consumer) |
-| :--- | :--- | :--- |
-| [<img src="https://pebblecraft.io/img/touchdown.webp" alt="touch_down_card_game 실제 게임 화면" width="240">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="240">](https://island.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/massive-consumer.webp" alt="Massive-Consumer 실제 게임 화면" width="240">](https://rluan0807.itch.io/massive-consumer) |
-| 실시간 멀티플레이 카드게임 | 치지직 채팅 참여형 생존 게임 | 구조물을 흡수하며 성장하는 3D 액션 |
-| [플레이 ↗](https://touchdown.pebblecraft.io/) | [플레이 ↗](https://island.pebblecraft.io/) | [플레이테스트 ↗](https://rluan0807.itch.io/massive-consumer) |
+| [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) | [castaways](https://github.com/dev-Rluan/castaways) |
+| :--- | :--- |
+| [<img src="https://pebblecraft.io/img/touchdown.webp" alt="touch_down_card_game 실제 게임 화면" width="360">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="360">](https://island.pebblecraft.io/) |
+| 실시간 멀티플레이 카드게임 | 치지직 채팅 참여형 생존 게임 |
+| [플레이 ↗](https://touchdown.pebblecraft.io/) | [플레이 ↗](https://island.pebblecraft.io/) |
+
+| [Massive-Consumer](https://rluan0807.itch.io/massive-consumer) | [MapleTactics](https://github.com/MagunMadown/MapleTactics) |
+| :--- | :--- |
+| [<img src="https://pebblecraft.io/img/massive-consumer.webp" alt="Massive-Consumer 실제 게임 화면" width="360">](https://rluan0807.itch.io/massive-consumer) | [<img src="https://raw.githubusercontent.com/MagunMadown/MapleTactics/main/Docs/Images/battle-thief.webp" alt="MapleTactics 실제 게임 화면 — 도적 전투" width="360">](https://maplestoryworlds.nexon.com/ko/play/d153fb40635e411ea9aa54d2740892a1) |
+| 구조물을 흡수하며 성장하는 3D 액션 | 메이플스토리 월드(mLua) 기반 턴제 전술 로그라이크 |
+| [플레이테스트 ↗](https://rluan0807.itch.io/massive-consumer) | [플레이 ↗](https://maplestoryworlds.nexon.com/ko/play/d153fb40635e411ea9aa54d2740892a1) |
+
+**MapleTactics · 5인 팀 참여** — 전투 시스템·데이터 검증·설계 문서·몬스터 모델 담당.
 
 ## 서비스·도구 개발
 

@@ -18,7 +18,7 @@
 | [castaways](https://github.com/dev-Rluan/castaways) | 치지직 채팅 참여형 생존 웹게임. 공개 코드와 웹 플레이. [플레이](https://island.pebblecraft.io/) |
 
 - [Massive-Consumer](https://rluan0807.itch.io/massive-consumer) — 3D 성장 액션. 공개 플레이테스트, 소스 비공개.
-- [MapleTactics](https://maplestoryworlds.nexon.com/ko/play/d153fb40635e411ea9aa54d2740892a1) — 5인 팀 참여. 전투 시스템·데이터 검증·설계 문서 담당.
+- [MapleTactics](https://github.com/MagunMadown/MapleTactics) — 메이플스토리 월드(mLua) 기반 턴제 전술 로그라이크. 5인 팀에서 전투 시스템·데이터 검증·설계 문서·몬스터 모델 담당. [플레이](https://maplestoryworlds.nexon.com/ko/play/d153fb40635e411ea9aa54d2740892a1)
 
 ## 서비스·도구와 작업 모음
 
