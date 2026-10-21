@@ -19,11 +19,11 @@ Java·Spring 기반 백엔드를 개발하고, AI를 활용해 게임과 도구�
 
 ## 게임 개발 · AI 활용
 
-| [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) | [castaways](https://github.com/dev-Rluan/castaways) |
-| :--- | :--- |
-| [<img src="https://pebblecraft.io/img/touchdown.webp" alt="touch_down_card_game 실제 게임 화면" width="360">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="360">](https://island.pebblecraft.io/) |
-| 실시간 멀티플레이 카드게임 | 치지직 채팅 참여형 생존 게임 |
-| [플레이 ↗](https://touchdown.pebblecraft.io/) | [플레이 ↗](https://island.pebblecraft.io/) |
+| [touch_down_card_game](https://github.com/dev-Rluan/touch_down_card_game) | [castaways](https://github.com/dev-Rluan/castaways) | [Massive-Consumer](https://rluan0807.itch.io/massive-consumer) |
+| :--- | :--- | :--- |
+| [<img src="https://pebblecraft.io/img/touchdown.webp" alt="touch_down_card_game 실제 게임 화면" width="240">](https://touchdown.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/castaways.webp" alt="castaways 실제 게임 화면" width="240">](https://island.pebblecraft.io/) | [<img src="https://pebblecraft.io/img/massive-consumer.webp" alt="Massive-Consumer 실제 게임 화면" width="240">](https://rluan0807.itch.io/massive-consumer) |
+| 실시간 멀티플레이 카드게임 | 치지직 채팅 참여형 생존 게임 | 구조물을 흡수하며 성장하는 3D 액션 |
+| [플레이 ↗](https://touchdown.pebblecraft.io/) | [플레이 ↗](https://island.pebblecraft.io/) | [플레이테스트 ↗](https://rluan0807.itch.io/massive-consumer) |
 
 ## 서비스·도구 개발
 
