@@ -25,6 +25,7 @@
 | 저장소 | 소개 |
 |---|---|
 | [rluan.dev](https://github.com/dev-Rluan/rluan.dev) | 개인 작업·게임·도구를 연결하는 사이트 소스. 웹 도구는 공개 준비 중. |
+| [Pebble Village](https://github.com/dev-Rluan/pebble-village) | Claude Code와 Codex 세션을 캐릭터와 공간으로 시각화하는 로컬 대시보드. 픽셀·감성 스타일, 사무실·캠프 배경과 시간대별 조명 지원. |
 
 - ai-notes — 녹음·받아쓰기·요약을 위한 개인 기록 도구. 소스 비공개.
 - [growtok](https://rluan.dev/#work) — 교사 보육일지 작성·관리 서비스. 운영 준비 중.
